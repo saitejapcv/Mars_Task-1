@@ -1,0 +1,22 @@
+Battery Lever = 70%
+All systems operational!
+Battery Lever = 77%
+Communication Falure!
+Battery Lever = 43%
+Communication Falure!
+Battery Lever = 40%
+Communication Falure!
+Battery Lever = 80%
+Communication Falure!
+Battery Lever = 45%
+Communication Falure!
+Battery Lever = 31%
+Communication Falure!
+Battery Lever = 36%
+Communication Falure!
+Battery Lever = 8%
+Battery low! Return to Base!
+Battery Lever = 94%
+Communication Falure!
+Battery Lever = 6%
+Battery low! Return to Base!
